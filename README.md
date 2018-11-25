@@ -14,4 +14,3 @@
     - user registration & login
 
 ![Admin-View-Screenshot](https://github.com/mtstorehub/Book-Store-Management/blob/master/dist/screenshots/003.jpg)
-    
