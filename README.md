@@ -14,4 +14,4 @@
 	
 [Click to Download](https://github.com/mtstorehub/Employee-Management/tree/master/dist/demo.zip)
 	
-![Screenshot](https://github.com/mtstorehub/Book-Store-Management/blob/master/dist/screenshots/003.jpg)
+![Screenshot](https://github.com/mtstorehub/Book-Store-Management/blob/master/dist/screenshots/003.PNG)
