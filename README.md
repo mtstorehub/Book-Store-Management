@@ -12,6 +12,6 @@
     - basic CRUD book data.
     - user registration & login
 	
-[Click to Download](https://github.com/mtstorehub/Employee-Management/tree/master/dist/demo.zip)
+[Click to Download](https://github.com/mtstorehub/Book-Store-Management/tree/master/dist/project.jar)
 	
 ![Screenshot](https://github.com/mtstorehub/Book-Store-Management/blob/master/dist/screenshots/003.PNG)
